@@ -1,3 +1,3 @@
 # trabalho-concurso-agrinho 
-web-site
+web-site:
 file:///C:/Users/user/Desktop/Sitescola/index.html
