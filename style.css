@@ -1,0 +1,149 @@
+
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+
+
+}
+
+.cabecalho
+{
+  background-color: #a6cf9e;
+  color: rgb(250, 246, 246);  
+  display: flex;  
+  justify-content: space-around;
+  align-items: center;
+  padding: -60px 0;
+
+}
+
+.cabecalho-imagem{
+    width: 18%;
+}
+
+.cabecalho-lista-item{
+  display: inline-block;
+    margin: 0 66px;
+  font-size: 34px; 
+
+}
+
+.problema-um{
+
+  width: 18%; 
+
+}
+.primeiro-problema{
+  background-image: linear-gradient(#a6cf9e, rgba(190, 240, 186, 0.712));
+  color: rgba(19, 0, 0, 0.836);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 28px 0;
+}
+.problema-um{
+   display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 28px 0;
+}
+
+.problema-dois{
+
+  width: 18%; 
+
+}
+
+.segundo-problema{
+  background-color: #c2eeb9a9; 
+  color: rgb(19, 0, 0, 0.836);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.problema-tres{
+
+  width: 18%; 
+
+}
+
+.terceiro-problema{
+  background-color: #c8eec0cb;
+  color: rgba(19, 0, 0, 0.836);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 85px 0;
+}
+
+.problema-quatro{
+
+  width: 18%; 
+
+}
+
+.quarto-problema{
+  background-color: #c8eec0bb;
+  color: rgba(19, 0, 0, 0.836);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 85px 0;
+}
+.problema-cinco{
+
+  width: 18%; 
+
+}
+.quinto-problema{
+  background-image: linear-gradient(#c8eec0bb, #aada959d);
+  color: rgba(5, 0, 0, 0.705);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 28px 0;
+}
+
+
+
+
+.rodape{
+  background-color: #a6cf9e;
+  text-align: center;
+}
+
+.rodape-imagem{
+
+  height: 100px;
+  padding: -13px 16;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
